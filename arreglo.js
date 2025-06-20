@@ -9,9 +9,3 @@ console.log(arregloCosas.length);
 let nuevoArregloCosas=arregloCosas.push('Libro');
 console.log('Nuevo Arreglo de Cosas', nuevoArregloCosas);
 console.log(arregloCosas);
-const dias =["domingo","lunes","martes","miercoles","jueves",
-"viernes","sabado","domingo"];
-console.log(dias[1]|| "dia no valido"); 
-console.log(dias[2]|| "dia no valido");
-console.log(dias[4]|| "dia no valido");
-console.log(dias[9]|| "dia no valido");
